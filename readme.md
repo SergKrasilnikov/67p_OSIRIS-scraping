@@ -9,6 +9,8 @@ This program download data from the [Rosetta mission website](https://www.cosmos
 particularly OSIRIS narrow-angle camera (OSINAC) - high-resolution images of the comet's nucleus and Rosetta's flyby 
 targets.
 
+Small script ***osiris_search.py*** helps to count certain file types in the folders.
+
 ---
 ### Running
 The data is located at the: 
